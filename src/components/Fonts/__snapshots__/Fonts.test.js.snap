@@ -1,0 +1,588 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Fonts default 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "center",
+        "paddingBottom": 10,
+        "paddingLeft": 10,
+        "paddingRight": 10,
+        "paddingTop": 10,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color="red"
+    css={
+      Object {
+        "fontFamily": "Helvetica",
+        "letterSpacing": -1.5,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={22}
+    style={
+      Array [
+        Object {
+          "color": "red",
+          "fontFamily": "Helvetica",
+          "fontSize": 22,
+          "letterSpacing": -1.5,
+        },
+        undefined,
+      ]
+    }
+  >
+    Fonts story
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "HelveticaNeue",
+        "letterSpacing": -0.2,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "HelveticaNeue",
+          "letterSpacing": -0.2,
+        },
+        undefined,
+      ]
+    }
+  >
+    body
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "HelveticaNeue-Bold",
+        "letterSpacing": -0.2,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "HelveticaNeue-Bold",
+          "letterSpacing": -0.2,
+        },
+        undefined,
+      ]
+    }
+  >
+    buttonAsLink
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "Helvetica",
+        "letterSpacing": -1.5,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Helvetica",
+          "letterSpacing": -1.5,
+        },
+        undefined,
+      ]
+    }
+  >
+    contextualMessage
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "Helvetica",
+        "fontSize": 22,
+        "letterSpacing": 0,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Helvetica",
+          "fontSize": 22,
+          "letterSpacing": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    featuredLarge
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "Helvetica",
+        "fontSize": 16,
+        "letterSpacing": 0,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Helvetica",
+          "fontSize": 16,
+          "letterSpacing": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    featuredMedium
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "Helvetica",
+        "fontSize": 12,
+        "letterSpacing": 0,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Helvetica",
+          "fontSize": 12,
+          "letterSpacing": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    featuredSmall
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "HelveticaNeue-Bold",
+        "letterSpacing": -0.5,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "HelveticaNeue-Bold",
+          "letterSpacing": -0.5,
+        },
+        undefined,
+      ]
+    }
+  >
+    inputText
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "HelveticaNeue-Bold",
+        "fontSize": 22,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "HelveticaNeue-Bold",
+          "fontSize": 22,
+        },
+        undefined,
+      ]
+    }
+  >
+    largeTitle
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "HelveticaNeue",
+        "fontSize": 16,
+        "letterSpacing": -0.2,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "HelveticaNeue",
+          "fontSize": 16,
+          "letterSpacing": -0.2,
+        },
+        undefined,
+      ]
+    }
+  >
+    mediumBody
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "HelveticaNeue-Bold",
+        "letterSpacing": -0.3,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "HelveticaNeue-Bold",
+          "letterSpacing": -0.3,
+        },
+        undefined,
+      ]
+    }
+  >
+    menuItem
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "HelveticaNeue",
+        "letterSpacing": -0.3,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "HelveticaNeue",
+          "letterSpacing": -0.3,
+        },
+        undefined,
+      ]
+    }
+  >
+    menuItemSecondary
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "HelveticaNeue-Bold",
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "HelveticaNeue-Bold",
+        },
+        undefined,
+      ]
+    }
+  >
+    middleTitle
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "Helvetica",
+        "letterSpacing": -0.67,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Helvetica",
+          "letterSpacing": -0.67,
+        },
+        undefined,
+      ]
+    }
+  >
+    myTripsDestination
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "Helvetica",
+        "letterSpacing": -0.67,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Helvetica",
+          "letterSpacing": -0.67,
+        },
+        undefined,
+      ]
+    }
+  >
+    tripStatusOptions
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "HelveticaNeue-Bold",
+        "lineHeight": 16,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "HelveticaNeue-Bold",
+          "lineHeight": 16,
+        },
+        undefined,
+      ]
+    }
+  >
+    nanoTitle
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "HelveticaNeue",
+        "fontSize": 12,
+        "letterSpacing": -0.2,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "HelveticaNeue",
+          "fontSize": 12,
+          "letterSpacing": -0.2,
+        },
+        undefined,
+      ]
+    }
+  >
+    smallBody
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "HelveticaNeue-Bold",
+        "fontSize": 12,
+        "letterSpacing": -0.2,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "HelveticaNeue-Bold",
+          "fontSize": 12,
+          "letterSpacing": -0.2,
+        },
+        undefined,
+      ]
+    }
+  >
+    smallTitle
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "HelveticaNeue-Bold",
+        "fontSize": 10,
+        "letterSpacing": -0.2,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "HelveticaNeue-Bold",
+          "fontSize": 10,
+          "letterSpacing": -0.2,
+        },
+        undefined,
+      ]
+    }
+  >
+    smallestTitle
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "HelveticaNeue-Bold",
+        "letterSpacing": 0,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "HelveticaNeue-Bold",
+          "letterSpacing": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    tabs
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "HelveticaNeue-Bold",
+        "fontSize": 16,
+        "letterSpacing": -0.5,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "HelveticaNeue-Bold",
+          "fontSize": 16,
+          "letterSpacing": -0.5,
+        },
+        undefined,
+      ]
+    }
+  >
+    titleMedium
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    color={undefined}
+    css={
+      Object {
+        "fontFamily": "Helvetica",
+        "letterSpacing": -1,
+      }
+    }
+    disabled={false}
+    ellipsizeMode="tail"
+    fontSize={undefined}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Helvetica",
+          "letterSpacing": -1,
+        },
+        undefined,
+      ]
+    }
+  >
+    tripCode
+  </Text>
+</View>
+`;

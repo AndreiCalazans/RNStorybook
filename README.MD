@@ -1,6 +1,7 @@
-*** React Native with storybook example.
+### React Native with storybook example.
 
-** To run
+## To run
+
 yarn 
 react-native run-<your platform>
 
